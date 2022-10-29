@@ -5,5 +5,5 @@ I am a full-stack developer shifting from a 12-year photography career. As a stu
 - 🔭 I’m currently working on designing and developing first projects
 - 🌱 I’m currently learning writing backend services and RESTful APIs in C#
 - 👯 I’m looking to collaborate on civic-tech projects, small games, or visual / design tools.
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shanedbutler/)
 - 😄 Pronouns: He/Him
