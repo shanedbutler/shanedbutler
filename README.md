@@ -6,4 +6,3 @@ Hi, my name is Shane (he/him). I am a software engineer with 4+ years of combine
 - 🌱 I’m learning to containerize applications with Docker
 - 👯 I’m looking to collaborate on civic-tech projects, small games, or AI enabled tools
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shanedbutler/)
-- 😄 Pronouns: He/Him
